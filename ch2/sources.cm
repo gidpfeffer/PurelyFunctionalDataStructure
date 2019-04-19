@@ -2,6 +2,7 @@ Group is
 
 ordered.sml
 set.sml
+map.sml
 testcases.sml
 
 $/smlnj-lib.cm
